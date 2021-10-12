@@ -1,4 +1,4 @@
-git clone https://github.com/hbtdalvarez/tallerGit.git
+git clone https://github.com/casalazar562/ejercicio-christian-.git
 git add
 git commit -m "Ejercicio Christian"
 git push
